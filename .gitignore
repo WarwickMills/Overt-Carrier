@@ -1,0 +1,7 @@
+*.bak
+OldVersions
+plot.log
+*.dwl
+*.dwl2
+*.lck
+Images
